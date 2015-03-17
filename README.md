@@ -1,1 +1,1 @@
-snappyrpm
+snappyrpm 1.1.2 for centos 6.5
